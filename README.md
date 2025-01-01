@@ -11,4 +11,4 @@ This project is a collection of various recipes. It aims to provide an easy-to-n
 ## Installation
 Clone this repository to your local machine using:
 ```bash
-git clone git@github.com:username/odin-recipes.git
+
